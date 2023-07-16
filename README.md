@@ -1,8 +1,9 @@
 <p align="center">
   <h3 align="center"> 
    Hi there 👋 
+    <br/>
+    I'm Ivan Basiuk
   </h3>
-  <h3 align="center">I'm Ivan Basiuk</h3>
 </p>
 
  😉 I'm junior front-end developer. I am always ready for new challenges and interesting projects💪
