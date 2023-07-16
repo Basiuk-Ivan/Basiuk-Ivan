@@ -6,11 +6,11 @@
 
  ## 📫 How to reach me:
  ---
-<p align="center">
+<div align="center">
   <a href="https://t.me/IvanBasiuk">
     <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">
-    <div>Telegram</div>
   </a>
+  <div>Telegram</div>
 </p>
 
 
