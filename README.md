@@ -6,7 +6,7 @@
 
  ## 📫 How to reach me:
  ---
-[![Telegram](https://img.shields.io/badge/-telegram-blue?color=white&logo=telegram&logoColor=white)](https://t.me/IvanBasiuk)
+[![Telegram](https://img.shields.io/badge/-telegram-blue?color=blue&logo=telegram&logoColor=white)](https://t.me/IvanBasiuk)
 
 
 
