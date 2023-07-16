@@ -27,24 +27,8 @@
 
 I participated in two half marathons (21 km)🏃. They have become one of my significant achievements. I'm proud of these races because they significantly boosted my mood and showed that I'm ready for any challenge💪.
 
+### Some of my projects📌
+More details about the project and technologies that are used, you can find in README.md file of each project.
 
 
 
-
-
-
-
-<!--
-**Basiuk-Ivan/Basiuk-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
