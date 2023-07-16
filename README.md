@@ -6,10 +6,8 @@
 
  ## 📫 How to reach me:
  ---
-<div style="background-color: #007BFF; padding: 20px; text-align: center;">
-    <h2 style="color: white;">Telegram</h2>
-    <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="200px">
-</div>
+[![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/IvanBasiuk)
+
 
 
 
