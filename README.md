@@ -29,6 +29,8 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 
 ### Skills 🚀
 [![React](https://img.shields.io/badge/-React-blue?color=blue&logo=react&logoColor=white)](https://reactjs.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?color=yellow&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 
 
