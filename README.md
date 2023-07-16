@@ -1,4 +1,7 @@
-###                                                            Hi there 👋
+### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi there 👋</h3>
+</p>
 
 <!--
 **Basiuk-Ivan/Basiuk-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
