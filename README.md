@@ -6,13 +6,24 @@
 
  ## 📫 How to reach me:
  ---
-<p align="center" style="background-color: #007BFF; padding: 10px;">
-  <a href="https://t.me/your_telegram_channel" style="text-decoration: none; color: white;">
+<p align="center">
+  <a href="https://t.me/your_telegram_channel">
     <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">
     <br>
-    Telegram
+    <strong>Telegram</strong>
   </a>
 </p>
+
+<style>
+  p a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #007BFF;
+    text-decoration: none;
+    color: white;
+  }
+</style>
+
 
 
 
