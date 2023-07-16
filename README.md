@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center"> 
-   Hi there 👋
+   Hi there 👋 I'm Ivan Basiuk
   </h3>
 </p>
 
