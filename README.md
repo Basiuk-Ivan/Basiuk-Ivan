@@ -9,7 +9,7 @@
 <p>
   <a href="https://t.me/IvanBasiuk" align="center">
     <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">
-  <div>Telegram</div>
+ Telegram
   </a>
 </p>
 
