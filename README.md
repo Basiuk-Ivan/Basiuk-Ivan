@@ -7,7 +7,7 @@
  ## 📫 How to reach me:
  ---
 [![Telegram](https://img.shields.io/badge/-telegram-blue?color=blue&logo=telegram&logoColor=white)](https://t.me/IvanBasiuk)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?color=red&logo=gmail&logoColor=red)](mailto:vaanbass@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?color=red&logo=gmail&logoColor=red)](mailto:vaanbass@gmail.com)
 
 
 
