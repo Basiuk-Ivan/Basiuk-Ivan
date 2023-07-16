@@ -5,7 +5,6 @@
  😉 I'm junior front-end developer. I am always ready for new challenges and interesting projects💪
 
  ## 📫 How to reach me:
- ---
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white)](https://t.me/IvanBasiuk)
 [![Gmail](https://img.shields.io/badge/-Gmail-white?color=red&logo=gmail&logoColor=white)](mailto:vaanbass@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?color=blue&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-basiuk-b35008226/)
