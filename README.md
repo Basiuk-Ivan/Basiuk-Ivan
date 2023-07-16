@@ -6,12 +6,14 @@
 
  ## 📫 How to reach me:
  ---
-<p>
-  <a href="https://t.me/IvanBasiuk" align="center">
+<p align="center" style="background-color: #007BFF; padding: 10px;">
+  <a href="https://t.me/your_telegram_channel" style="text-decoration: none; color: white;">
     <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">
- Telegram
+    <br>
+    Telegram
   </a>
 </p>
+
 
 
 
