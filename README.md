@@ -6,23 +6,7 @@
 
  ## 📫 How to reach me:
  ---
-<p align="center">
-  <a href="https://t.me/your_telegram_channel">
-    <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">
-    <br>
-    <strong>Telegram</strong>
-  </a>
-</p>
-
-<style>
-  p a {
-    display: inline-block;
-    padding: 10px;
-    background-color: #007BFF;
-    text-decoration: none;
-    color: white;
-  }
-</style>
+![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
 
 
 
