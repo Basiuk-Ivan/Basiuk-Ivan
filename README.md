@@ -6,7 +6,8 @@
 
  ## 📫 How to reach me:
  ---
-[![Telegram](https://simpleicons.org/icons/telegram.svg)](https://t.me/IvanBasiuk)
+[<img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram Logo" width="50" height="50">](https://t.me/IvanBasiuk)
+
 
 
 
