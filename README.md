@@ -1,7 +1,13 @@
-### Hi there 👋
 <p align="center">
   <h3 align="center">Hi there 👋</h3>
 </p>
+
+ 😉 I'm junior front-end developer. I am always ready for new challenges and interesting projects💪
+
+ ## 📫 How to reach me:
+ ---
+ ![Логотип мого проекту](https://example.com/logo.png)
+
 
 <!--
 **Basiuk-Ivan/Basiuk-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
