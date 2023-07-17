@@ -41,6 +41,8 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![Trello](https://img.shields.io/badge/-Trello-blue?color=blue&logo=trello&logoColor=white)](https://trello.com)
 [![Express](https://img.shields.io/badge/-Express-black?color=black&logo=express&logoColor=white)](https://expressjs.com)
 [![Axios](https://img.shields.io/badge/-Axios-blue?color=blue&logo=axios&logoColor=white)](https://axios-http.com)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-blue?color=blue&logo=cloudinary&logoColor=white)](https://cloudinary.com)
+
 
 
 
