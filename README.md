@@ -50,21 +50,36 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 ### Some of my projects📌
 More details about the project and technologies that are used, you can find in README.md file of each project.
 
-<div>
-  <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #F9F9F9;">
-  1
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="block" style="background-color: red;">
+        <h1>Блок 1</h1>
+        <p>Це контент блоку 1.</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="block" style="background-color: blue;">
+        <h1>Блок 2</h1>
+        <p>Це контент блоку 2.</p>
+      </div>
+    </div>
   </div>
-  <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #E8E8E8;">
-    2
+  <div class="row">
+    <div class="col-md-6">
+      <div class="block" style="background-color: green;">
+        <h1>Блок 3</h1>
+        <p>Це контент блоку 3.</p>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="block" style="background-color: yellow;">
+        <h1>Блок 4</h1>
+        <p>Це контент блоку 4.</p>
+      </div>
+    </div>
   </div>
 </div>
-<div>
-  <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #D7D7D7;">
-  3
-  </div>
-  <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #C6C6C6;">
-   4
-  </div>
-</div>
+
 
 
