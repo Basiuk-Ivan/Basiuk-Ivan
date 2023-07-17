@@ -47,8 +47,52 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![Node.js](https://img.shields.io/badge/-Node.js-green?color=green&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/-Express-black?color=black&logo=express&logoColor=white)](https://expressjs.com)
 
+### Some of my projects📌
+More details about the project and technologies that are used, you can find in README.md file of each project.
 
+<!-- Блок 1 -->
+<div>
+  <h3>Проект 1</h3>
+  <p align="center">
+    <a href="https://github.com/username/repo1">
+      <img src="https://placehold.it/100x100" alt="Проект 1" />
+    </a>
+  </p>
+  <p align="center">Мова: JavaScript</p>
+</div>
 
+<!-- Блок 2 -->
+<div>
+  <h3>Проект 2</h3>
+  <p align="center">
+    <a href="https://github.com/username/repo2">
+      <img src="https://placehold.it/100x100" alt="Проект 2" />
+    </a>
+  </p>
+  <p align="center">Мова: Python</p>
+</div>
+
+<!-- Блок 3 -->
+<div>
+  <h3>Проект 3</h3>
+  <p align="center">
+    <a href="https://github.com/username/repo3">
+      <img src="https://placehold.it/100x100" alt="Проект 3" />
+    </a>
+  </p>
+  <p align="center">Мова: Java</p>
+</div>
+
+<!-- Блок 4 -->
+<div>
+  <h3>Проект 4</h3>
+  <p align="center">
+    <a href="https://github.com/username/repo4">
+      <img src="https://placehold.it/100x100" alt="Проект 4" />
+    </a>
+  </p>
+  <p align="center">Мова: Ruby</p>
+</div>
 
 
 
