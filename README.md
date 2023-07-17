@@ -50,16 +50,5 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 ### Some of my projects📌
 More details about the project and technologies that are used, you can find in README.md file of each project.
 
-<!-- Блок 1 -->
-<div>
-  <p align="center">
-    <a href="https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2">
-      <img src="https://placehold.it/100x100" alt="Проект 1" />
-    </a>
-    [![GitHub stars](https://badgen.net/github/stars/Basiuk-Ivan/Pharmacy-fe11-group-2)](https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2)
-[![GitHub watchers](https://badgen.net/github/watchers/Basiuk-Ivan/Pharmacy-fe11-group-2)](https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2/watchers)
-
-  </p>
-</div>
 
 
