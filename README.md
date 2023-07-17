@@ -52,13 +52,12 @@ More details about the project and technologies that are used, you can find in R
 
 <!-- Блок 1 -->
 <div>
-  <h3>Проект 1</h3>
   <p align="center">
-    <a href="https://github.com/username/repo1">
+    <a href="https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2">
       <img src="https://placehold.it/100x100" alt="Проект 1" />
+      <p align="center">Мова: JavaScript</p>
     </a>
   </p>
-  <p align="center">Мова: JavaScript</p>
 </div>
 
 <!-- Блок 2 -->
