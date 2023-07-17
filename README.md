@@ -57,5 +57,13 @@ More details about the project and technologies that are used, you can find in R
 
 
 
+<ul style="display: flex; justify-content: space-between; list-style-type: none; padding: 0;">
+  <li style="flex-basis: 48%; border: 1px solid #000; background-color: #F9F9F9;">**Блок 1**</li>
+  <li style="flex-basis: 48%; border: 1px solid #000; background-color: #E8E8E8;">**Блок 2**</li>
+</ul>
+<ul style="display: flex; justify-content: space-between; list-style-type: none; padding: 0;">
+  <li style="flex-basis: 48%; border: 1px solid #000; background-color: #D7D7D7;">**Блок 3**</li>
+  <li style="flex-basis: 48%; border: 1px solid #000; background-color: #C6C6C6;">**Блок 4**</li>
+</ul>
 
 
