@@ -50,9 +50,10 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 ### Some of my projects📌
 More details about the project and technologies that are used, you can find in README.md file of each project.
 
-| <div style="border: 1px solid #000; background-color: #F9F9F9;">**Блок 1**</div> | <div style="border: 1px solid #000; background-color: #E8E8E8;">**Блок 2**</div> |
+| <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #F9F9F9;">**Блок 1**</div> | <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #E8E8E8;">**Блок 2**</div> |
 |---|---|
-| <div style="border: 1px solid #000; background-color: #D7D7D7;">**Блок 3**</div> | <div style="border: 1px solid #000; background-color: #C6C6C6;">**Блок 4**</div> |
+| <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #D7D7D7;">**Блок 3**</div> | <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #C6C6C6;">**Блок 4**</div> |
+
 
 
 
