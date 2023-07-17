@@ -55,6 +55,9 @@ More details about the project and technologies that are used, you can find in R
 | <div style="display: inline-block; border: 1px solid #000; background-color: #D7D7D7;">**Блок 3**</div> | <div style="display: inline-block; border: 1px solid #000; background-color: #C6C6C6;">**Блок 4**</div> |
 
 
+| ![Color](https://via.placeholder.com/10x10/F9F9F9/F9F9F9) **Блок 1** | ![Color](https://via.placeholder.com/10x10/E8E8E8/E8E8E8) **Блок 2** |
+|---|---|
+| ![Color](https://via.placeholder.com/10x10/D7D7D7/D7D7D7) **Блок 3** | ![Color](https://via.placeholder.com/10x10/C6C6C6/C6C6C6) **Блок 4** |
 
 
 
