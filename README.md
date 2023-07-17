@@ -31,6 +31,11 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![React](https://img.shields.io/badge/-React-blue?color=blue&logo=react&logoColor=white)](https://reactjs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?color=yellow&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Sass](https://img.shields.io/badge/-Sass-pink?color=pink&logo=sass&logoColor=white)](https://sass-lang.com)
+[![Vite](https://img.shields.io/badge/-Vite-black?color=black&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?color=green&logo=node.js&logoColor=white)](https://nodejs.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?color=green&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redux](https://img.shields.io/badge/-Redux-purple?color=purple&logo=redux&logoColor=white)](https://redux.js.org)
+
 
 
 
