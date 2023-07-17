@@ -55,8 +55,8 @@ More details about the project and technologies that are used, you can find in R
   <p align="center">
     <a href="https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2">
       <img src="https://placehold.it/100x100" alt="Проект 1" />
-      [![GitHub stars](https://img.shields.io/github/stars/username/repo)](https://github.com/username/repo/stargazers)
-      [![GitHub watchers](https://img.shields.io/github/watchers/username/repo)](https://github.com/username/repo/watchers)
+      [![GitHub stars](https://img.shields.io/github/stars/username/repo)](https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2)
+      [![GitHub watchers](https://img.shields.io/github/watchers/username/repo)](https://github.com/Basiuk-Ivan/Pharmacy-fe11-group-2)
     </a>
   </p>
 </div>
