@@ -32,7 +32,6 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?color=yellow&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Sass](https://img.shields.io/badge/-Sass-pink?color=pink&logo=sass&logoColor=white)](https://sass-lang.com)
 [![Vite](https://img.shields.io/badge/-Vite-black?color=black&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?color=green&logo=node.js&logoColor=white)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?color=green&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Redux](https://img.shields.io/badge/-Redux-purple?color=purple&logo=redux&logoColor=white)](https://redux.js.org)
 [![MUI](https://img.shields.io/badge/-Material--UI-blue?color=blue&logo=material-ui&logoColor=white)](https://mui.com)
@@ -43,8 +42,10 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![Axios](https://img.shields.io/badge/-Axios-blue?color=blue&logo=axios&logoColor=white)](https://axios-http.com)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-blue?color=blue&logo=cloudinary&logoColor=white)](https://cloudinary.com)
 
-
-
+### Currently learning 📘
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?color=blue&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?color=green&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/-Express-black?color=black&logo=express&logoColor=white)](https://expressjs.com)
 
 
 
