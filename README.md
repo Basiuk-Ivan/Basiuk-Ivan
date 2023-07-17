@@ -52,18 +52,18 @@ More details about the project and technologies that are used, you can find in R
 
 <div>
   <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #F9F9F9;">
-    <!-- Вміст блоку 1 -->
+  1
   </div>
   <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #E8E8E8;">
-    <!-- Вміст блоку 2 -->
+    2
   </div>
 </div>
 <div>
   <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #D7D7D7;">
-    <!-- Вміст блоку 3 -->
+  3
   </div>
   <div style="display: inline-block; width: 49%; border: 1px solid #000; background-color: #C6C6C6;">
-    <!-- Вміст блоку 4 -->
+   4
   </div>
 </div>
 
