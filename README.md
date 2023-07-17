@@ -22,7 +22,7 @@
 
 ### Other:
 - Worked as a B2C manager, which helped me hone my communication, teamwork, and problem-solving skills;
-- He has documented and implemented over 700 successful transactions with clients📄;
+- Documented and implemented more than 700 successful transactions with clients📄;
 - In 2021, he became the best sales manager of the year (the first innovation park in Ukraine UNIT.City)🥇;
 
 I participated in two half marathons (21 km)🏃. They have become one of my significant achievements. I'm proud of these races because they significantly boosted my mood and showed that I'm ready for any challenge💪.
