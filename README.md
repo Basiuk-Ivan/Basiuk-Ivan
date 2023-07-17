@@ -39,6 +39,8 @@ I participated in two half marathons (21 km)🏃. They have become one of my sig
 [![Formik](https://img.shields.io/badge/-Formik-orange?color=orange&logo=formik&logoColor=white)](https://formik.org)
 [![Figma](https://img.shields.io/badge/-Figma-purple?color=purple&logo=figma&logoColor=white)](https://www.figma.com)
 [![Trello](https://img.shields.io/badge/-Trello-blue?color=blue&logo=trello&logoColor=white)](https://trello.com)
+[![Express](https://img.shields.io/badge/-Express-black?color=black&logo=express&logoColor=white)](https://expressjs.com)
+[![Axios](https://img.shields.io/badge/-Axios-blue?color=blue&logo=axios&logoColor=white)](https://axios-http.com)
 
 
 
