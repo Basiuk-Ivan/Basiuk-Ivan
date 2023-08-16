@@ -6,7 +6,7 @@
   </h3>
 </p>
 
- 😉 I'm front-end developer. I am always ready for new challenges and interesting projects💪
+ 😉 I'm frontend developer. I am always ready for new challenges and interesting projects💪
 
  ## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?color=blue&logo=telegram&logoColor=white)](https://t.me/IvanBasiuk)
