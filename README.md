@@ -28,7 +28,7 @@
 I participated in two half marathons (21 km)🏃. They have become one of my significant achievements. I'm proud of these races because they significantly boosted my mood and showed that I'm ready for any challenge💪.
 
 ### Skills 🚀
-[![React](https://img.shields.io/badge/-React-white?color=black&logo=react&logoColor=blue&labelColor=white)](https://reactjs.org)
+[![React](https://img.shields.io/badge/-React-black?color=black&logo=react&logoColor=blue&labelColor=black)](https://reactjs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?color=yellow&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Sass](https://img.shields.io/badge/-Sass-pink?color=pink&logo=sass&logoColor=white)](https://sass-lang.com)
 [![Vite](https://img.shields.io/badge/-Vite-black?color=black&logo=vite&logoColor=white)](https://vitejs.dev)
